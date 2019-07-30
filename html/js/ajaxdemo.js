@@ -27,7 +27,6 @@ $(document).ready(function(){             //jQuery
                     card+="<p class='card-text'> <span class='font-weight-bold'> Company Name : </span>  "+ data[j].company.name + "</p>";
                     card+="<p class='card-text'> <span class='font-weight-bold'> Catchphrase : </span>  "+ data[j].company.catchPhrase + "</p>";
                     card+="<p class='card-text'> <span class='font-weight-bold'> Business : </span>  "+ data[j].company.bs + "</p>";
-
                     card+="</div></div><br>"
                 }
                 $(".results").html(card);
