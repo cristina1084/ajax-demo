@@ -1,0 +1,30 @@
+[{
+    "name":"abc",
+    "dob":"31/04/90",
+    "college":"AJCE",
+    "mobile":9876543210
+},
+{
+    "name":"def",
+    "dob":"12/05/98",
+    "college":"SJCET",
+    "mobile":1478523690
+},
+{
+    "name":"geh",
+    "dob":"01/10/97",
+    "college":"RCET",
+    "mobile":8523697410
+},
+{
+    "name":"ijk",
+    "dob":"09/08/95",
+    "college":"MBITS",
+    "mobile":1024578963
+},
+{
+    "name":"lmn",
+    "dob":"28/10/96",
+    "college":"CET",
+    "mobile":8745210396
+}]
